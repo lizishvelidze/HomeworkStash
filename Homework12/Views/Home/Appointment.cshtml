@@ -1,0 +1,58 @@
+﻿@model Homework12.Models.Appointment
+
+@{
+    ViewData["Title"] = "Appointment Page";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    @using (Html.BeginForm("Appointment", "Home", FormMethod.Post))
+    {
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <th colspan="2" align="center">Person Details</th>
+            </tr>
+            <tr>
+                <td>First Name: </td>
+                <td>
+                    @Html.TextBoxFor(m => m.FirstName)
+                </td>
+            </tr>
+            <tr>
+                <td>Last Name: </td>
+                <td>
+                    @Html.TextBoxFor(m => m.LastName)
+                </td>
+            </tr>
+            <tr>
+                <td>Doctor: </td>
+                <td>
+                    @Html.DropDownListFor(m => m.Doctor, new List<SelectListItem>
+                   {
+                       new SelectListItem { Text = "Please select", Value = "" },
+                       new SelectListItem { Text = "Dentist", Value = "Dentist" },
+                       new SelectListItem { Text = "Endocrinologist", Value = "Endocrinologist" },
+                       new SelectListItem { Text = "Cardiologist", Value = "Cardiologist" }
+                   })
+                </td>
+            </tr>
+            <tr>
+                <td>Time: </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Time, new { type = "time" })
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Submit"/></td>
+            </tr>
+        </table>
+    }
+</body>
+</html>
