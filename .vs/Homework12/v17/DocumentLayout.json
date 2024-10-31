@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Homework12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|c:\\users\\user\\source\\repos\\homework12\\homework12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|solutionrelative:homework12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|c:\\users\\user\\source\\repos\\homework12\\homework12\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|solutionrelative:homework12\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|c:\\users\\user\\source\\repos\\homework12\\homework12\\views\\home\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|solutionrelative:homework12\\views\\home\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|c:\\users\\user\\source\\repos\\homework12\\homework12\\middleware\\checkbookingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|solutionrelative:homework12\\middleware\\checkbookingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|c:\\users\\user\\source\\repos\\homework12\\homework12\\appointment.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|solutionrelative:homework12\\appointment.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|c:\\users\\user\\source\\repos\\homework12\\homework12\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|solutionrelative:homework12\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|c:\\users\\user\\source\\repos\\homework12\\homework12\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B04D2FD1-E451-4E32-BF3D-C3BD51281126}|Homework12\\Homework12.csproj|solutionrelative:homework12\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appointment.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\appointment.json",
+              "RelativeDocumentMoniker": "Homework12\\appointment.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\appointment.json",
+              "RelativeToolTip": "Homework12\\appointment.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T18:04:37.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\appsettings.json",
+              "RelativeDocumentMoniker": "Homework12\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\appsettings.json",
+              "RelativeToolTip": "Homework12\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T09:45:42.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Startup.cs",
+              "RelativeDocumentMoniker": "Homework12\\Startup.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Startup.cs",
+              "RelativeToolTip": "Homework12\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:42:56.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckBookingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Middleware\\CheckBookingMiddleware.cs",
+              "RelativeDocumentMoniker": "Homework12\\Middleware\\CheckBookingMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Middleware\\CheckBookingMiddleware.cs",
+              "RelativeToolTip": "Homework12\\Middleware\\CheckBookingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:36:19.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Views\\Home\\Appointment.cshtml",
+              "RelativeDocumentMoniker": "Homework12\\Views\\Home\\Appointment.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Views\\Home\\Appointment.cshtml",
+              "RelativeToolTip": "Homework12\\Views\\Home\\Appointment.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T17:36:47.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Homework12\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Models\\Appointment.cs",
+              "RelativeToolTip": "Homework12\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:21:21.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Homework12\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Homework12\\Homework12\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Homework12\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv18AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:20:04.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
