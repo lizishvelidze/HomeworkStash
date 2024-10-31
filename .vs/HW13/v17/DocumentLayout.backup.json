@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HW13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|c:\\users\\user\\source\\repos\\hw13\\hw13\\addressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|solutionrelative:hw13\\addressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|c:\\users\\user\\source\\repos\\hw13\\hw13\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|solutionrelative:hw13\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|c:\\users\\user\\source\\repos\\hw13\\hw13\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|solutionrelative:hw13\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|c:\\users\\user\\source\\repos\\hw13\\hw13\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|solutionrelative:hw13\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|c:\\users\\user\\source\\repos\\hw13\\hw13\\respodent.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|solutionrelative:hw13\\respodent.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|c:\\users\\user\\source\\repos\\hw13\\hw13\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|solutionrelative:hw13\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|c:\\users\\user\\source\\repos\\hw13\\hw13\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4747916-C800-4A53-99C0-0F615B960409}|HW13\\HW13.csproj|solutionrelative:hw13\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\Startup.cs",
+              "RelativeDocumentMoniker": "HW13\\Startup.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\Startup.cs",
+              "RelativeToolTip": "HW13\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:49:22.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\AddressValidator.cs",
+              "RelativeDocumentMoniker": "HW13\\AddressValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\AddressValidator.cs",
+              "RelativeToolTip": "HW13\\AddressValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:44:08.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\PersonValidator.cs",
+              "RelativeDocumentMoniker": "HW13\\PersonValidator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\PersonValidator.cs",
+              "RelativeToolTip": "HW13\\PersonValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:25:37.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "HW13\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\Models\\Address.cs",
+              "RelativeToolTip": "HW13\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:24:12.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SurveyController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\Controllers\\SurveyController.cs",
+              "RelativeDocumentMoniker": "HW13\\Controllers\\SurveyController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\Controllers\\SurveyController.cs",
+              "RelativeToolTip": "HW13\\Controllers\\SurveyController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv1EAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:20:49.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "respodent.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\respodent.json",
+              "RelativeDocumentMoniker": "HW13\\respodent.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\respodent.json",
+              "RelativeToolTip": "HW13\\respodent.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T15:18:38.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "HW13\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW13\\HW13\\Models\\Person.cs",
+              "RelativeToolTip": "HW13\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:11:06.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

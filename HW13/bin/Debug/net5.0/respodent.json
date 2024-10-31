@@ -1,0 +1,41 @@
+[
+  {
+    "CreateDate": "2024-10-30T12:00:00Z",
+    "FirstName": "Jane",
+    "LastName": "Doe",
+    "JobPosition": "Software Engineer",
+    "Salary": 85000,
+    "WorkExperience": 9,
+    "PersonAddress": {
+      "Country": "USA",
+      "City": "San Francisco",
+      "HomeNumber": "12345"
+    }
+  },
+  {
+    "CreateDate": "2024-10-29T12:00:00Z",
+    "FirstName": "John",
+    "LastName": "Smith",
+    "JobPosition": "Project Manager",
+    "Salary": 95000,
+    "WorkExperience": 5,
+    "PersonAddress": {
+      "Country": "USA",
+      "City": "New York",
+      "HomeNumber": "456"
+    }
+  },
+  {
+    "CreateDate": "2024-10-30T17:13:59.46Z",
+    "FirstName": "Jack",
+    "LastName": "Black",
+    "JobPosition": "Tester",
+    "Salary": 3000,
+    "WorkExperience": 3,
+    "PersonAddress": {
+      "Country": "USA",
+      "City": "New York",
+      "HomeNumber": "567"
+    }
+  }
+]
